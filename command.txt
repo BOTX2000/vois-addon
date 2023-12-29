@@ -30,3 +30,5 @@ game up
 game left
 game down
 game right, game write
+game inventory
+game chat, game message
